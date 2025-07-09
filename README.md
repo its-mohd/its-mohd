@@ -9,7 +9,7 @@
 ## 🧑‍💼 About Me
 
 - 🎓 **BSCS Student (4th Semester)** – Air University, Multan
-- 📱 Recentlt Completed a **Doctor Appointment App** in **Flutter** + **Firebase**
+- 📱 Recently Completed a **Doctor Appointment App** in **Flutter** + **Firebase**
 - 🧠 Learning **Full-Stack Web Development** (Next goal)
 - 💡 Passionate about **AI, Coding, and UI/UX Design**
 - 📍 Based in **Multan, Pakistan**
