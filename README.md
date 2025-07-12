@@ -13,7 +13,7 @@
 - 🧠 Learning **Full-Stack Web Development** (Next goal)
 - 💡 Passionate about **AI, Coding, and UI/UX Design**
 - 📍 Based in **Multan, Pakistan**
-- 🧩 Fun fact: I debug better after chai ☕ (No kidding!)
+- 🧩 Fun fact: I debug better after sleep (No kidding!)
 
 ---
 
